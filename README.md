@@ -7,7 +7,7 @@
 
 Περιλαμβάνει Δραστηριότητες *Physical Computing* στα περιβάλλοντα Scratch 1.4 και Python, σε μορφή φύλλων εργασίας, καθώς και αντίστοιχα προγράμματα.  
 
-### Scratch
+**Scratch**
 * LED_ON_OFF
 * FLASHING_LED_KEY
 * FLASHING_LED_BUTTON
@@ -15,7 +15,7 @@
 * Servo Motor
 * ULTRASONIC
 
-### Python
+**Python**
 * LED_ON
 * FLASHING_LED
 * FLASHING_LED_BUTTON
